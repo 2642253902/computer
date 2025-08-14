@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "数学进阶",
+      "path": "计算机自学指南/学习规划/数学进阶.md"
+    },
+    {
       "basename": "csdiy",
       "path": "计算机自学指南/csdiy.md"
     },
     {
-      "basename": "Web开发",
-      "path": "计算机自学指南/学习规划/web开发/Web开发.md"
+      "basename": "基础 Java",
+      "path": "基础 Java.md"
+    },
+    {
+      "basename": "软件构建",
+      "path": "软件构建.md"
+    },
+    {
+      "basename": "静态检查",
+      "path": "静态检查.md"
+    },
+    {
+      "basename": "面向对象编程",
+      "path": "计算机自学指南/学习规划/面向对象编程/面向对象编程.md"
     },
     {
       "basename": "学习规划",
       "path": "计算机自学指南/学习规划/学习规划.md"
+    },
+    {
+      "basename": "Web开发",
+      "path": "计算机自学指南/学习规划/web开发/Web开发.md"
     },
     {
       "basename": "javaweb",
@@ -27,10 +47,6 @@
     {
       "basename": "Nginx笔记",
       "path": "计算机自学指南/学习规划/web开发/前/Nginx笔记.pdf"
-    },
-    {
-      "basename": "数学进阶",
-      "path": "计算机自学指南/学习规划/数学进阶.md"
     },
     {
       "basename": "计算机网络",
@@ -59,10 +75,6 @@
     {
       "basename": "设计模式",
       "path": "计算机自学指南/学习规划/设计模式/设计模式.md"
-    },
-    {
-      "basename": "面向对象编程",
-      "path": "计算机自学指南/学习规划/面向对象编程/面向对象编程.md"
     },
     {
       "basename": "开源项目收藏",

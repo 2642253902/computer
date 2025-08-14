@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0988c8426de13da2",
+        "id": "770f66dfe051c7f4",
         "type": "tabs",
         "children": [
           {
-            "id": "74a71668bd49f7dc",
+            "id": "6f43deb83d98d206",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "csdiy"
             }
+          },
+          {
+            "id": "72281d560aba46cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机自学指南/学习规划/数学进阶.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数学进阶"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +206,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74a71668bd49f7dc",
+  "active": "72281d560aba46cf",
   "lastOpenFiles": [
-    "计算机自学指南/学习规划/web开发/Web开发.md",
     "计算机自学指南/csdiy.md",
+    "基础 Java.md",
+    "软件构建.md",
+    "静态检查.md",
+    "计算机自学指南/学习规划/面向对象编程/面向对象编程.md",
+    "1.静态检查.md",
     "计算机自学指南/学习规划/学习规划.md",
+    "计算机自学指南/学习规划/web开发/Web开发.md",
     "计算机自学指南/学习规划/web开发/javaweb/javaweb.md",
     "计算机自学指南/学习规划/web开发/后/Maven依赖管理项目构建工具.md",
     "计算机自学指南/学习规划/web开发/前/Vue3快速上手.pdf",
@@ -211,7 +231,6 @@
     "计算机自学指南/学习规划/必学工具/必学工具.md",
     "计算机自学指南/学习规划/计算机科普/计算机科普.md",
     "计算机自学指南/学习规划/设计模式/设计模式.md",
-    "计算机自学指南/学习规划/面向对象编程/面向对象编程.md",
     "计算机自学指南/学习规划/必学工具/开源项目收藏.md",
     "计算机自学指南/学习规划/计算机科普/计算机科学速成课.md",
     "markdown语法练习.md",
@@ -225,9 +244,6 @@
     "计算机自学指南/学习规划/web开发/javaweb/货品信息管理系统-会话跟踪v9.0.md",
     "计算机自学指南/学习规划/web开发/javaweb/货品信息管理系统-CRUD_v9.0.md",
     "计算机自学指南/学习规划/web开发/javaweb/信息管理系统-过滤器监听器.md",
-    "计算机自学指南/学习规划/web开发/javaweb/Request&Response&Jsp.md",
-    "计算机自学指南/学习规划/好书推荐.md",
-    "2025-08-11.md",
     "计算机自学指南/学习规划/web开发/javaweb/images/1589124260730.png",
     "计算机自学指南/学习规划/web开发/javaweb/images/1589123602555.png",
     "计算机自学指南/学习规划/web开发/javaweb/images/image-20240426154358049.png",
