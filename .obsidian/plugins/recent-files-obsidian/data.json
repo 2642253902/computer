@@ -5,8 +5,44 @@
       "path": "计算机自学指南/csdiy.md"
     },
     {
+      "basename": "Web开发",
+      "path": "计算机自学指南/学习规划/web开发/Web开发.md"
+    },
+    {
       "basename": "学习规划",
       "path": "计算机自学指南/学习规划/学习规划.md"
+    },
+    {
+      "basename": "javaweb",
+      "path": "计算机自学指南/学习规划/web开发/javaweb/javaweb.md"
+    },
+    {
+      "basename": "Maven依赖管理项目构建工具",
+      "path": "计算机自学指南/学习规划/web开发/后/Maven依赖管理项目构建工具.md"
+    },
+    {
+      "basename": "Vue3快速上手",
+      "path": "计算机自学指南/学习规划/web开发/前/Vue3快速上手.pdf"
+    },
+    {
+      "basename": "Nginx笔记",
+      "path": "计算机自学指南/学习规划/web开发/前/Nginx笔记.pdf"
+    },
+    {
+      "basename": "数学进阶",
+      "path": "计算机自学指南/学习规划/数学进阶.md"
+    },
+    {
+      "basename": "计算机网络",
+      "path": "计算机自学指南/学习规划/计算机网络/计算机网络.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "计算机自学指南/学习规划/数据结构.md"
+    },
+    {
+      "basename": "编程入门",
+      "path": "计算机自学指南/学习规划/编程入门/编程入门.md"
     },
     {
       "basename": "数学基础",
@@ -27,18 +63,6 @@
     {
       "basename": "面向对象编程",
       "path": "计算机自学指南/学习规划/面向对象编程/面向对象编程.md"
-    },
-    {
-      "basename": "数学进阶",
-      "path": "计算机自学指南/学习规划/数学进阶.md"
-    },
-    {
-      "basename": "编程入门",
-      "path": "计算机自学指南/学习规划/编程入门/编程入门.md"
-    },
-    {
-      "basename": "Web开发",
-      "path": "计算机自学指南/学习规划/web开发/Web开发.md"
     },
     {
       "basename": "开源项目收藏",
