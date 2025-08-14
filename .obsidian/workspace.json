@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45a85f05022bbcfc",
+        "id": "8f837c43cf76101a",
         "type": "tabs",
         "children": [
           {
-            "id": "6bedefce57b1ef7c",
+            "id": "1728461c1a3737d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "csdiy"
             }
-          },
-          {
-            "id": "b7560c6d379cdc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机自学指南/学习规划/web开发/Web开发.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web开发"
-            }
-          },
-          {
-            "id": "cf574d8dc0353a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机自学指南/学习规划/设计模式/数学基础/数学基础.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数学基础"
-            }
-          },
-          {
-            "id": "a3074c330911fa76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机自学指南/学习规划/数学进阶.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数学进阶"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,19 +191,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7560c6d379cdc82",
+  "active": "1728461c1a3737d4",
   "lastOpenFiles": [
-    "计算机自学指南/csdiy.md",
-    "计算机自学指南/学习规划/数学进阶.md",
     "计算机自学指南/学习规划/设计模式/数学基础/数学基础.md",
+    "计算机自学指南/csdiy.md",
     "计算机自学指南/学习规划/必学工具/必学工具.md",
     "计算机自学指南/学习规划/计算机科普/计算机科普.md",
     "计算机自学指南/学习规划/设计模式/设计模式.md",
     "计算机自学指南/学习规划/面向对象编程/面向对象编程.md",
+    "计算机自学指南/学习规划/数学进阶.md",
+    "计算机自学指南/学习规划/编程入门/编程入门.md",
+    "计算机自学指南/学习规划/web开发/Web开发.md",
     "计算机自学指南/学习规划/必学工具/开源项目收藏.md",
     "计算机自学指南/学习规划/计算机科普/计算机科学速成课.md",
     "markdown语法练习.md",
-    "计算机自学指南/学习规划/web开发/Web开发.md",
     "计算机自学指南/学习规划/web开发/javaweb/Http&Servlet.md",
     "计算机自学指南/学习规划/web开发/javaweb/javaweb.md",
     "计算机自学指南/学习规划/web开发/Vue3快速上手.pdf",
@@ -256,7 +214,6 @@
     "计算机自学指南/学习规划/必学工具/尚硅谷高级技术之Linux(CentOS7.9).pdf",
     "计算机自学指南/学习规划/必学工具/尚硅谷高级技术之Shell.pdf",
     "计算机自学指南/学习规划/必学工具/尚硅谷技术课程系列之Git V2.0.pdf",
-    "计算机自学指南/学习规划/编程入门/编程入门.md",
     "计算机自学指南/学习规划/编程入门/C语言.pdf",
     "计算机自学指南/学习规划/计算机网络/计算机网络.md",
     "计算机自学指南/学习规划/计算机网络/计算机网络思维导图.pdf",
