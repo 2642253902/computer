@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "数学进阶",
-      "path": "计算机自学指南/学习规划/数学进阶.md"
-    },
-    {
       "basename": "csdiy",
       "path": "计算机自学指南/csdiy.md"
+    },
+    {
+      "basename": "Web开发",
+      "path": "计算机自学指南/学习规划/web开发/Web开发.md"
+    },
+    {
+      "basename": "计算机科普",
+      "path": "计算机自学指南/学习规划/计算机科普/计算机科普.md"
+    },
+    {
+      "basename": "学习规划",
+      "path": "计算机自学指南/学习规划/学习规划.md"
+    },
+    {
+      "basename": "数学进阶",
+      "path": "计算机自学指南/学习规划/数学进阶.md"
     },
     {
       "basename": "基础 Java",
@@ -23,14 +35,6 @@
     {
       "basename": "面向对象编程",
       "path": "计算机自学指南/学习规划/面向对象编程/面向对象编程.md"
-    },
-    {
-      "basename": "学习规划",
-      "path": "计算机自学指南/学习规划/学习规划.md"
-    },
-    {
-      "basename": "Web开发",
-      "path": "计算机自学指南/学习规划/web开发/Web开发.md"
     },
     {
       "basename": "javaweb",
@@ -67,10 +71,6 @@
     {
       "basename": "必学工具",
       "path": "计算机自学指南/学习规划/必学工具/必学工具.md"
-    },
-    {
-      "basename": "计算机科普",
-      "path": "计算机自学指南/学习规划/计算机科普/计算机科普.md"
     },
     {
       "basename": "设计模式",
